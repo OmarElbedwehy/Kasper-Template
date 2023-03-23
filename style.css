@@ -396,7 +396,7 @@ ul{
 
 .shuffle{
   display: flex;
-  width: 98%;
+  width: 100%;
   justify-content: center;
   padding-top: 50px;
 }
